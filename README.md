@@ -4,7 +4,7 @@
 
 **Description**
 
-Ce projet met en place un pipeline de traitement de données météo en temps réel à l'aide de Kafka et Spark Streaming. Il permet de collecter, transformer et analyser les données météorologiques provenant de l'API OpenWeatherMap et de les diffuser en continu via Kafka.
+Ce projet met en place un pipeline de traitement de données météo en temps réel à l'aide de Kafka et Spark Streaming. Il permet de collecter et transformer les données météorologiques provenant de l'API OpenWeatherMap et de les diffuser en continu via Kafka.
 
 **Objectifs du projet**
 
