@@ -10,7 +10,7 @@ import time #pour gérer les délais d'attente
 API_KEY = '1ad47d9c0af333bf88bb58a112e100eb'
 
 # TODO : Ajouter deux autres villes de votre choix pour atteindre 5 villes
-CITIES = ['Paris', 'Toulon', 'Lille', 'Corse']  # Exemple : Ajoutez ici vos villes
+CITIES = ['Paris', 'Toulon', 'Lille', 'Corse', 'Lille']  # Exemple : Ajoutez ici vos villes
 
 # TODO : Remplacez par le nom du topic Kafka utilisé dans votre projet
 KAFKA_TOPIC = 'topic-weather' # Nom du topic Kafka où seront envoyées les données
